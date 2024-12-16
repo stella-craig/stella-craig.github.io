@@ -1,0 +1,42 @@
+/* src/components/About.css */
+.about-section {
+    background-color: #f9f9f9; /* Light gray background */
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .about-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-content {
+    text-align: left;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+  
+  .about-content h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .about-content ul {
+    list-style-type: disc;
+    margin: 10px 0 20px 20px;
+    padding: 0;
+  }
+  
+  .about-content ul li {
+    margin: 5px 0;
+  }
+  
+  .about-content strong {
+    color: #007bff; /* Highlight color */
+  }
+  
+  .about-content em {
+    font-style: italic;
+  }
+  
